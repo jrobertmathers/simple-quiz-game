@@ -1,5 +1,3 @@
-# project4-quiz-game-initial
-
 ## Project setup
 ```
 npm install
